@@ -2,7 +2,7 @@
 
 This is an Android demo for services and notifications including:
 
- * Using a JobIntentServiceAAA
+ * Using a JobIntentServiceAAABBB
  * Communicating between JobIntentService and Activity using ResultReceiver
  * Using AlarmManager
  * Downloading Image Asynchronously with ImageDownloadService
